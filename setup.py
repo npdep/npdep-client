@@ -11,8 +11,7 @@ setup(
     description="Network Protocol Data Exfiltration Project Client - A modular approach for data exfiltration",
     classifiers=[
         "Operating System :: OS Independent ",
-        "Programming Language :: Python :: 3 ",
-        "License :: OSI Approved :: MIT License"
+        "Programming Language :: Python :: 3 "
     ],
     long_description=desc,
     long_description_content_type="text/markdown",
